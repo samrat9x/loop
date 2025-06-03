@@ -1,4 +1,4 @@
-const cacheName = "Loop-v1.0.19"; // Updated cache version
+const cacheName = "Loop-v1.0.20"; // Updated cache version
 const assetsToCache = [
   "index.html",
   "style.css",
